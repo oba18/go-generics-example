@@ -18,3 +18,7 @@ func testBranch2() string {
 	s := "Good Evening"
 	return s
 }
+
+func testBranch3() int {
+	return 1
+}
