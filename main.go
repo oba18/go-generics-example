@@ -7,6 +7,8 @@ import (
 func main() {
 	fmt.Println("Hello World")
 	aaa()
+	bbb()
+	ccc()
 	fmt.Println("Complete!!!!!")
 }
 
@@ -15,5 +17,10 @@ func aaa() {
 }
 
 func bbb() {
-	fmt.Println("bbb")
+	bbb := "bbb"
+	fmt.Println(bbb)
+}
+
+func ccc() {
+	fmt.Println("ccc")
 }
