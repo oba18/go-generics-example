@@ -20,5 +20,6 @@ func testBranch2() string {
 }
 
 func testBranch3() int {
-	return 1
+	i := 10
+	return i
 }
