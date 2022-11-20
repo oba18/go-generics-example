@@ -6,5 +6,10 @@ import (
 
 func main() {
 	fmt.Println("Hello World")
+	aaa()
 	fmt.Println("Complete!!!!!")
+}
+
+func aaa() {
+	fmt.Println("aaa")
 }
