@@ -5,9 +5,10 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World")
+	fmt.Println("start")
 	aaa()
 	bbb()
+	fmt.Println("Hello World")
 	fmt.Println("Complete!!!!!")
 }
 
