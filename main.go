@@ -12,4 +12,6 @@ func main() {
 
 func aaa() {
 	fmt.Println("aaa")
+func bbb() {
+	fmt.Println("bbb")
 }
