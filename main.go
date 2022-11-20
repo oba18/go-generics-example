@@ -24,8 +24,3 @@ func bbb() {
 func ccc() {
 	fmt.Println("ccc")
 }
-
-func ccc() {
-	ccc := "ccc"
-	fmt.Println(ccc)
-}
