@@ -9,6 +9,7 @@ func main() {
 	testBranch()
 	testBranch2()
 	testBranch3()
+	testBranch4()
 }
 
 func testBranch() {
@@ -23,4 +24,8 @@ func testBranch2() string {
 func testBranch3() []int {
 	is := []int{1, 2, 3}
 	return is
+}
+
+func testBranch4() any {
+	return "aaaaaaaaaaaaa"
 }
