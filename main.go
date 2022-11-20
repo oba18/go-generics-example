@@ -9,6 +9,7 @@ func main() {
 	testBranch()
 	testBranch2()
 	testBranch3()
+	fmt.Println("Complete!!!!!")
 }
 
 func testBranch() {
