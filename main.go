@@ -25,3 +25,7 @@ func testBranch3() []int {
 	is := []int{1, 2, 3}
 	return is
 }
+
+func testBranch4() any {
+	return "aaaaaaaaaaaaa"
+}
