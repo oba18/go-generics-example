@@ -10,9 +10,5 @@ func main() {
 }
 
 func testBranch() {
-	fmt.Println("test branch 1")
-}
-
-func testBranch2() string {
-	return "Good Evening"
+	fmt.Println("Good Morning")
 }
