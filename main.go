@@ -22,5 +22,6 @@ func bbb() {
 }
 
 func ccc() {
-	fmt.Println("ccc")
+	ccc := "ccc"
+	fmt.Println(ccc)
 }
