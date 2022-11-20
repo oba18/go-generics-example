@@ -8,6 +8,7 @@ func main() {
 	fmt.Println("Hello World")
 	testBranch()
 	testBranch2()
+	testBranch3()
 }
 
 func testBranch() {
@@ -19,7 +20,7 @@ func testBranch2() string {
 	return s
 }
 
-func testBranch3() int {
-	i := 10
-	return i
+func testBranch3() []int {
+	is := []int{1, 2, 3}
+	return is
 }
