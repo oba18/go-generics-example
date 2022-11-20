@@ -8,7 +8,6 @@ func main() {
 	fmt.Println("Hello World")
 	aaa()
 	bbb()
-	ccc()
 	fmt.Println("Complete!!!!!")
 }
 
@@ -19,9 +18,4 @@ func aaa() {
 func bbb() {
 	bbb := "bbb"
 	fmt.Println(bbb)
-}
-
-func ccc() {
-	ccc := "ccc"
-	fmt.Println(ccc)
 }
